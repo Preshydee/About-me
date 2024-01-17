@@ -1,5 +1,4 @@
-# About-me
-My Profile 
+# About me
 
 My name is Precious Adekoya, welcome to my Github Page!
 
